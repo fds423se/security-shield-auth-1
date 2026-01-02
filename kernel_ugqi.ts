@@ -1,0 +1,1 @@
+const service_ugqi = <T>(args: T): T => { return args; };
